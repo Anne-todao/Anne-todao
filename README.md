@@ -27,4 +27,4 @@ Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho ap
   
 ## 🎯 Expectativas para o Futuro
 
-Após o término do curso, a principal meta é conseguir se manter estável nessa área tecnologica.
+Após o término do curso, a principal meta é conseguir se manter estável nessa área tecnológica.
