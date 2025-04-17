@@ -30,12 +30,9 @@ Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho ap
 Após o término do curso, a principal meta é conseguir se manter estável nessa área tecnológica.
 
 
-## 📱 Você pode entrar em contato comigo!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaby_todao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anne Todão) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:annetodao@gmail.com) 
 
-- **Email:**
-  annetodao@gmail.com
-
-- **Instagram:**
 gaby_todao
 
 
