@@ -20,10 +20,13 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
 
 Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
 - **Lógica de Programação e Algoritmos**.🖥️
-- **Levantamento de requisitos**.🙋
-- **Sistemas operacionais**. 
+- **Levantamento de Requisitos**.🙋
+- **Sistemas Operacionais**. 
 - **Arquiteturas de Redes com IoT**.
-
+- **Projetos de Software**.
+- **Banco de Dados**.
+- **Programação Back-end**.
+-  **Linguagem de Marcação**.
   
 ## 🎯 Expectativas para o Futuro
 
@@ -47,7 +50,6 @@ Após o término do curso, a principal meta é conseguir se manter estável ness
 ---
 [![](https://visitcount.itsvg.in/api?id=Anne-todao&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
+<img src= https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png width="80" />
