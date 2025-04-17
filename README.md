@@ -35,7 +35,12 @@ Após o término do curso, a principal meta é conseguir se manter estável ness
 - **Email:**
   annetodao@gmail.com
 
--**Instagram:**
+- **Instagram:**
 gaby_todao
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anne-todao&theme=transparent)
+
+
 
 
