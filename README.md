@@ -19,8 +19,8 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
 ## 🎓 Onde estou Estudando?
 
 Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
-- **Lógica de Programação e Algoritmos**.🖥️
-- **Levantamento de Requisitos**.🙋
+- **Lógica de Programação e Algoritmos**.
+- **Levantamento de Requisitos**.
 - **Sistemas Operacionais**. 
 - **Arquiteturas de Redes com IoT**.
 - **Projetos de Software**.
