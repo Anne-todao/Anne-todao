@@ -1,6 +1,5 @@
 # 🚀 Olá, sou a Anne Todão!
 
-Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI!
 
 ## 🛠️ O que Estou Aprendendo
 
@@ -18,7 +17,7 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI!
 
 ## 🎓 Onde estou Estudando?
 
-Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
+Atualmente, estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
 - **Lógica de Programação e Algoritmos**.
 - **Levantamento de Requisitos**.
 - **Sistemas Operacionais**. 
