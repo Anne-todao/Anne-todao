@@ -1,5 +1,6 @@
 # 🚀 Olá, sou a Anne Todão!
-
+### Bem-vindo ao meu perfil do Github!
+ Aqui é onde organizo e faço grande parte dos meus projetos, explore e sinta-se a vontade para descobrir quem sou e o que faço!🖤
 
 ## 🛠️ O que Estou Aprendendo
 
